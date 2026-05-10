@@ -153,8 +153,56 @@ npm run dev
 
 # 👩‍💻 Developed By
 
-Dulanjalee
-Software Engineering Undergraduate
-Open University of Sri Lanka
+**Name:** Dulanjalee Gamage
+
+**University:** The Open University of Sri Lanka
+
+**GitHub:** https://github.com/dulaagamage
+
+**LinkedIn:** Dulanjalee Gamage
+
+**Email:** dulaagamage123@gmail.com
+
+---
+
+# 📝 License
+
+This project was created as part of a personal initiative in software engineering and biodiversity conservation.
+
+Licensed under the **MIT License**.  
+Feel free to use, modify, and distribute this project with proper credit.
+
+---
+
+# 🙏 Acknowledgments
+
+Special appreciation to the medicinal plant conservation initiatives and biodiversity research efforts in Sri Lanka that inspired the concept behind this project.
+
+This system was designed to explore the intersection of:
+
+- Biodiversity conservation
+- Herbal and Ayurvedic knowledge preservation
+- Botanical research digitization
+- QR-integrated educational experiences
+- Modern web application development
+
+Additional thanks to the open-source community and the Laravel ecosystem for providing the tools and resources that supported the development process.
+
+---
+
+## 💡 Skills Demonstrated
+
+This project demonstrates practical experience in:
+
+- Laravel application development
+- RESTful API integration
+- Authentication & admin systems
+- CRUD architecture
+- Database design and migrations
+- Biodiversity data management
+- Tailwind CSS UI development
+- QR-integrated digital systems
+- Responsive frontend engineering
+- Git & version control practices
 
 ---
